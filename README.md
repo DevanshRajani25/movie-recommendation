@@ -2,6 +2,9 @@
 
 A simple **Movie Recommendation System** built with **Streamlit** that suggests 4-5 similar movies based on your selected movie.  
 
+![image](https://github.com/user-attachments/assets/540fa1d2-30a4-471b-9ce2-9adf911df9ad)
+
+
 ![image](https://github.com/user-attachments/assets/53745411-4d71-4ebf-9a5b-a78eaf74a140)
 
 ## 🚀 Features  
